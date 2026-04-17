@@ -6,6 +6,12 @@ A responsive, single-page movie browsing application built with **Next.js 16**, 
 
 ---
 
+## Live Demo
+
+🔗 **Deployed App:** [View CineVault Live](https://cinevault-beryl.vercel.app/)
+
+---
+
 ## Features
 
 - **Browse Popular Movies** — Displays trending/popular movies from TMDB on initial load.
